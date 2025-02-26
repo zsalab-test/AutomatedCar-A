@@ -6,7 +6,7 @@
         mc:Ignorable="d" d:DesignWidth="1280" d:DesignHeight="720"
         x:Class="AutomatedCar.Views.MainWindow"
         Icon="/Assets/car-icon.png"
-        Title="AutomatedCar"
+        Title="My Changed AutomatedCar"
         Width="1280" Height="720"
         xmlns:views="clr-namespace:AutomatedCar.Views;assembly=AutomatedCar"
         xmlns:local="clr-namespace:AutomatedCar;assembly=AutomatedCar"
